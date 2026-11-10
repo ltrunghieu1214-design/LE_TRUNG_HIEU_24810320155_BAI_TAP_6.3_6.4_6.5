@@ -1,0 +1,26 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+
+# Build folders
+bin/
+obj/
+Debug/
+Release/
+
+# Visual Studio cache
+*.cache
+*.pdb
+
+# NuGet
+packages/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Windows
+Thumbs.db
+desktop.ini
