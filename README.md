@@ -5,7 +5,7 @@
 ## MỤC 1: THÔNG TIN SINH VIÊN
 * **Họ và tên sinh viên:** Lê Trung Hiếu
 * **Mã sinh viên:** 24810320155
-* **Lớp / Khóa:** Đại học Điện lực (EPU)
+* **Lớp / Khóa:** Đại học Điện lực(EPU)
 
 ### Bài tập 6.3 – Hệ thống quản lý công việc và tiến độ dự án
 
