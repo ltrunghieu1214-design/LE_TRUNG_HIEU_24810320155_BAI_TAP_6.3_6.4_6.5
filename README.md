@@ -1,8 +1,6 @@
 # BÁO CÁO BÀI TẬP 6.3 6.4 6.5
 
 ## MỤC 1. THÔNG TIN SINH VIÊN
-
-## MỤC 1: THÔNG TIN SINH VIÊN
 * **Họ và tên sinh viên:** Lê Trung Hiếu
 * **Mã sinh viên:** 24810320155
 * **Lớp / Khóa:** Đại học Điện lực(EPU)
